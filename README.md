@@ -59,7 +59,6 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -84,3 +83,5 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 [![Xv's GitHub stats](https://stats-xv.vercel.app/api?username=mamadxv&hide_border=true&icons=true&title_color=ffc206&icon_color=e28905&text_color=f1f1eb&bg_color=212121)](https://github.com/mamadxv)
 
 [![Top Langs](https://stats-xv.vercel.app/api/top-langs/?username=mamadxv&hide_border=true&title_color=ffc206&text_color=f1f1eb&bg_color=212121)](https://github.com/mamadxv)
+
+NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
