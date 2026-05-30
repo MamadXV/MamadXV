@@ -2,7 +2,7 @@
 
 **A Senior Full Stack Developer from Iran** 
 
-##  - 👨‍💻 About Me
+##     👨‍💻 About Me
 
 I’m Xv. I’m a Full-Stack Dev who enjoys the challenge of connecting heavy backend architecture with clean UI/UX. I spend my time building web apps, scripting mechanics in Unity and Unreal, and developing cross-platform mobile tools. I’ve always enjoyed taking a complex, messy problem and simplifying it into a working solution.
 
@@ -10,16 +10,18 @@ Before switching fully to code, I spent years as a YouTuber and content creator.
 
 When I’m not at my desk, I’m usually working on music, video editing, or motion graphics. I’ve recently been integrating AI into my workflow to speed up the repetitive parts of development, which has been a great way to focus more on the creative side of things.
 
-*   - Currently building and designing my own personal website
-*   - Music Producer & Video/Photo Editor
-*   - Ex-YouTuber & Content Creator
-*   - You can DM me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XvDynamic?text=Hello%20Mr.%20Xv) 
+*    Currently building and designing my own personal website
+*    Music Producer & Video/Photo Editor
+*    Ex-YouTuber & Content Creator
+  
+*    You can DM me:  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XvDynamic?text=Hello%20Mr.%20Xv) 
 
 
 ---
 
 
-##  - ⚡ Technology Stack
+##     ⚡ Technology Stack
+
 
 **🌐 Web Development**<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -52,7 +54,8 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 ---
 
 
-##  - 🛠️ Tools & Architecture
+##     🛠️ Tools & Architecture
+
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -72,9 +75,11 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
+
 ---
 
-##  - 📊 Stats
+
+##     📊 Stats
 
 [![Xv's GitHub stats](https://stats-xv.vercel.app/api?username=mamadxv&hide_border=true&icons=true&title_color=ffc206&icon_color=e28905&text_color=f1f1eb&bg_color=212121)](https://github.com/mamadxv)
 
