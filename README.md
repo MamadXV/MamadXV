@@ -24,6 +24,7 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 
 
 **🌐 Web Development**<br>
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -31,6 +32,7 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 
 
 **📱 Mobile App Development**<br>
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
@@ -38,6 +40,7 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 
 
 **🎮 Game Development**<br>
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -45,6 +48,7 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 
 
 **⛏️ Minecraft Mod & Plugin Development**<br>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spigot/Paper](https://img.shields.io/badge/Spigot_/_Paper-F7A8B8?style=for-the-badge)
@@ -68,6 +72,7 @@ When I’m not at my desk, I’m usually working on music, video editing, or mot
 
 
 **🎨 Creative Arsenal**<br>
+
 ![FL Studio](https://img.shields.io/badge/FL_Studio-FF8C00?style=for-the-badge&logo=fl-studio&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
